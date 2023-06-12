@@ -38,9 +38,11 @@ export const Login = () => {
                         placeholder={'Contraseña'}
                     />
 
-                    <Button 
-                        text='Iniciar Monthly Budget'
-                    />
+                    <div className='right__form--button'>
+                        <Button
+                            text='Iniciar Monthly Budget'
+                        />
+                    </div>
 
                 </form>
             </div>

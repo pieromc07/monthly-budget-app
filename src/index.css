@@ -5,6 +5,7 @@
   --base: #1E1E1E;
   --color-1: #51D289;
   --color-2: #FFE600;
+  --color-2-hover: #FFD600;
   --color-success: #00B3FF;
   --color-error: #F44336;
   --color-light: #FFFDE7;
@@ -15,6 +16,7 @@
   --black: #000000;
   --white: #FFFFFF;
   --title: 3.2rem / 3.5rem 'Open Sans', sans-serif;
+  --title-0: 2.5rem / 3rem 'Open Sans', sans-serif;
   --title-1: 2.175rem / 2.5rem 'Open Sans', sans-serif;
   --title-2: 1.5rem / 2rem 'Open Sans', sans-serif;
   --title-3: 1.25rem / 1.75rem 'Open Sans', sans-serif;
